@@ -9,7 +9,7 @@
     height: 20px;
 
     margin-right: 10px;
-    background-color: cadetblue;
+    background-color: #F4F4F4;
 }
 .checkbox:checked{
     appearance: none;

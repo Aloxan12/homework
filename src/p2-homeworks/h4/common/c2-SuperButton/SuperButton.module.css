@@ -9,12 +9,17 @@
 
 .default {
     outline: none;
-    background: darkgreen;
-    color: pink;
+    background: #8585f5;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
 }
 
 .red {
     background: red;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
 }
 .button{
     position: relative;
