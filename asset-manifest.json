@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/homework/static/css/main.23919d33.chunk.css",
-    "main.js": "/homework/static/js/main.0383ba41.chunk.js",
-    "main.js.map": "/homework/static/js/main.0383ba41.chunk.js.map",
-    "runtime-main.js": "/homework/static/js/runtime-main.1b2f5c7b.js",
-    "runtime-main.js.map": "/homework/static/js/runtime-main.1b2f5c7b.js.map",
-    "static/js/2.db5158b8.chunk.js": "/homework/static/js/2.db5158b8.chunk.js",
-    "static/js/2.db5158b8.chunk.js.map": "/homework/static/js/2.db5158b8.chunk.js.map",
+    "main.css": "/homework/static/css/main.073c9b0a.css",
+    "main.js": "/homework/static/js/main.4b2ffcb8.js",
+    "static/js/787.177e23c2.chunk.js": "/homework/static/js/787.177e23c2.chunk.js",
     "index.html": "/homework/index.html",
-    "static/css/main.23919d33.chunk.css.map": "/homework/static/css/main.23919d33.chunk.css.map",
-    "static/js/2.db5158b8.chunk.js.LICENSE.txt": "/homework/static/js/2.db5158b8.chunk.js.LICENSE.txt",
-    "static/media/SuperCheckbox.module.css": "/homework/static/media/check.59b4a885.png"
+    "main.073c9b0a.css.map": "/homework/static/css/main.073c9b0a.css.map",
+    "main.4b2ffcb8.js.map": "/homework/static/js/main.4b2ffcb8.js.map",
+    "787.177e23c2.chunk.js.map": "/homework/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b2f5c7b.js",
-    "static/js/2.db5158b8.chunk.js",
-    "static/css/main.23919d33.chunk.css",
-    "static/js/main.0383ba41.chunk.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4b2ffcb8.js"
   ]
 }
