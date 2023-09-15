@@ -2,19 +2,32 @@
 }
 
 .input {
+    display: flex;
+    width: 372px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
 }
 
 .inputWrapper {
+    display: flex;
+    flex-direction: column-reverse;
 }
 
 .superInput {
 }
 
 .errorInput {
+    border-color: red;
+    outline: none;
 }
 
 .errorInput:focus {
 }
 
 .error {
+    color: red;
 }
