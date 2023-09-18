@@ -1,10 +1,20 @@
 .spanBlock {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
 }
 
 .span {
+    color: #0080FF;
+    font-family: Montserrat, serif;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .input {
+    outline: none;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
 }
 
 .pen {
