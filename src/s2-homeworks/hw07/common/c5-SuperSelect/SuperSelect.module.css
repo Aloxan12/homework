@@ -1,9 +1,10 @@
 .select {
+    min-width: 100px;
 }
 
-.select:focus {
-}
+/*.select:focus {*/
+/*}*/
 
 
-.option:hover {
-}
+/*.option:hover {*/
+/*}*/
