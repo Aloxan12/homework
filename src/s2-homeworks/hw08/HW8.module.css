@@ -5,9 +5,26 @@
 }
 
 .users {
+    margin-top: 10px;
+    width: 50%;
+    border-collapse: collapse;
+}
+.users thead tr td{
+    background: #E5E5E5;
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 4px 0 0 4px;
+}
+
+.users thead tr td:last-child{
+    border-radius: 0 4px 4px 0;
 }
 
 .buttonsContainer {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    gap: 15px;
 }
 
 .container {
@@ -20,4 +37,5 @@
 }
 
 .ageCol {
+    margin-left: auto;
 }
