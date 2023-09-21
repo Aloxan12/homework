@@ -1,3 +1,12 @@
-import s from './Loader.module.css'
+import './Loader.css'
 
-export const Loader = () => <div className={s.loader}/>
+export const Loader = () => <div className="lds-roller">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
