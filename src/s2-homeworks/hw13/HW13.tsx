@@ -41,7 +41,7 @@ const HW13 = () => {
             })
             .catch((e) => {
                 // дописать
-
+                console.log('e')
             })
     }
 
